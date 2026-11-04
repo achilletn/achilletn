@@ -9,7 +9,7 @@ Computer Science engineering student at CentraleSupélec, currently completing a
 
 ### Featured project
 
-**Option Volatility Arbitrage & Delta-Hedging Engine** : [repo link](<REMPLACE-PAR-LE-LIEN-DU-REPO-PRICER>)
+**Option Volatility Arbitrage & Delta-Hedging Engine** : [repo link](www.github.com/achilletn/pricer)
 
 Black-Scholes / Monte-Carlo pricer with a delta-hedging backtest in Python. Backtested daily rebalancing on equity options and quantified Gamma P&L leakage from a vol spike within 2.4% of theory; cut Monte-Carlo pricing variance ~2x at the money via antithetic variates with noise-free Greeks via common random numbers; calibrated implied volatility with a safeguarded Newton-Raphson solver, validated by 35+ unit tests.
 
